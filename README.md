@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{ Guilherme Golfeto Francisco }!</strong>
 
-🔭 Um dos meus estudos mais recentes que estou fazendo é referente a automação, tanto em Desktop quanto Web, por enquanto possuo três projetos realizados em Python com o uso do PyAutoGUI, Selenium e lib's de interface grafica(TKinter e PySimpleGUI).
+🔭 Um dos meus estudos mais recentes que estou fazendo é referente a automação, tanto em Desktop quanto Web, por enquanto possuo três projetos realizados em Python com o uso do PyAutoGUI, Selenium e lib's de interface grafica como TKinter e PySimpleGUI.
 
 💬 Contato:
 <p align="left">
