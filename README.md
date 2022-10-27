@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{ Guilherme Golfeto Francisco }!</strong>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF198B&width=435&lines=print(%22Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme!%22);print(%22Seja+bem+vindo+ao+meu+perfil%22))](https://git.io/typing-svg)
+## <strong> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF198B&width=435&lines=print(%22Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme!%22);print(%22Seja+bem+vindo+ao+meu+perfil%22))](https://git.io/typing-svg)</strong>
 
 🔭 Um dos meus estudos mais recentes que estou fazendo é referente a automação, tanto em Desktop quanto Web, por enquanto possuo três projetos realizados em Python com o uso do PyAutoGUI, Selenium e lib's de interface grafica como TKinter e PySimpleGUI.
 
