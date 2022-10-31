@@ -4,17 +4,16 @@
 
 💬 Contato:
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="ggfguigolfeto@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/guilherme-golfeto-829b3b1a3/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-golfeto-829b3b1a3/" /></a>
 
-  <!--<a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5518991065626&text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
--->
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/guigolfeto/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guigolfeto/"/></a>
 </p>  
 
