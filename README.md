@@ -1,24 +1,20 @@
- <div align="center">
+# Guilherme Golfeto
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:240046,100:7B2CBF&height=180&section=header&text=Guilherme%20Golfeto&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20actually%20work.&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=B56BFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+TypeScript+%26+Node.js;AI+Engineering+%7C+RAG+%26+MCP;SaaS+%7C+Architecture+%7C+Automation;Less+hype.+More+engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=B56BFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Backend+Engineer;Building+Scalable+Software;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/guilherme-golfeto">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=B56BFF" />
-</a>
-<a href="mailto:golfeto.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=B56BFF" />
-</a>
-<a href="https://github.com/GuiGolfeto">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=B56BFF" />
-</a>
+**Full-Stack Developer | AI Engineering | Backend Systems**
 
-<br/><br/>
+Building software, intelligent systems and products with a focus on architecture, performance and practical solutions.
 
-`FULL-STACK DEVELOPMENT` &nbsp; · &nbsp; `AI ENGINEERING` &nbsp; · &nbsp; `SYSTEM ARCHITECTURE`
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B56BFF)](https://github.com/GuiGolfeto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=B56BFF)](https://linkedin.com/in/guilherme-golfeto)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B56BFF)](mailto:golfeto.dev@gmail.com)
 
 </div>
 
@@ -26,37 +22,78 @@
 
 ## `01` / About Me
 
-I'm Guilherme, a **Full-Stack Developer** with 4 years of experience building software, from the first architectural decision to production deployment.
+I'm a Full-Stack Developer with **4 years of experience** building web applications, SaaS platforms, backend systems and AI-powered solutions.
 
-I work primarily with TypeScript, Node.js, NestJS, React and Next.js, but I'm equally interested in the infrastructure, automation and engineering decisions behind the applications.
+My work focuses on designing and developing reliable software, from database architecture and APIs to user interfaces and integrations with external services.
 
-My work goes beyond CRUD applications. I've built multi-tenant SaaS platforms, real-time systems, AI-powered assistants, computer vision solutions and IoT integrations.
+I enjoy working across different layers of a system, understanding the problem behind the code and building solutions that are practical, maintainable and scalable.
 
-I enjoy understanding how things work, questioning unnecessary complexity and finding better ways to solve problems.
-
-**I don't care much about following trends. I care about building things that make sense.**
+Currently exploring the intersection of **Software Engineering, Artificial Intelligence and Automation**, with particular interest in RAG architectures, AI agents and MCP integrations.
 
 ---
 
 ## `02` / What I Do
 
-| Area | Focus |
-|:---|:---|
-| Backend Engineering | APIs, WebSockets, queues, background jobs and integrations |
-| Frontend Engineering | Modern interfaces, performance, component architecture and UX |
-| AI Engineering | LLMs, RAG, AI Agents, tool calling and MCP servers |
-| Computer Vision | YOLO, OpenCV, OCR, video analysis and local inference |
-| SaaS Architecture | Multi-tenancy, database modeling, integrations and scalability |
-| Infrastructure | Docker, Linux, Nginx, deployment and production environments |
-| Mobile & IoT | Flutter, ESP32, TCP communication and real-time telemetry |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- REST API development
+- Scalable backend architecture
+- Multi-tenant SaaS systems
+- Authentication and authorization
+- Database modeling and optimization
+- Real-time communication
+- External API integrations
+
+</td>
+<td width="50%" valign="top">
+
+### AI Engineering
+
+- LLM integrations
+- Retrieval-Augmented Generation (RAG)
+- AI agents and tool calling
+- Model Context Protocol (MCP)
+- Local AI inference
+- Computer vision
+- Speech recognition and processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend & Mobile
+
+- Modern web applications
+- React and Next.js
+- Vue and Nuxt
+- TypeScript applications
+- Flutter mobile development
+- Responsive interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & Systems
+
+- Docker environments
+- Linux servers
+- Nginx configuration
+- CI/CD pipelines
+- WebSockets and TCP
+- IoT and ESP32 development
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `03` / Engineering in Practice
-
-I prefer measurable results over impressive-sounding descriptions.
-
-A few examples from projects I've worked on:
 
 <div align="center">
 
@@ -64,15 +101,21 @@ A few examples from projects I've worked on:
 <tr>
 <td align="center" width="33%">
 <h2>55%</h2>
-<sub>Faster report generation</sub>
+<strong>Less reporting time</strong>
+<br/>
+<sub>Process optimization and automation</sub>
 </td>
 <td align="center" width="33%">
 <h2>50%</h2>
-<sub>Reduced initial loading time</sub>
+<strong>Faster initial loading</strong>
+<br/>
+<sub>Frontend performance improvements</sub>
 </td>
 <td align="center" width="33%">
 <h2>15h</h2>
-<sub>Weekly manual work eliminated per office</sub>
+<strong>Saved per week</strong>
+<br/>
+<sub>Manual work eliminated through automation</sub>
 </td>
 </tr>
 </table>
@@ -83,77 +126,77 @@ A few examples from projects I've worked on:
 
 ## `04` / Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="190">
-<b>Languages & Core</b>
-</td>
+<td align="left" width="190"><strong>Languages & Core</strong></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,python,dart,php&theme=dark" />
 </td>
 </tr>
-
 <tr>
-<td align="center">
-<b>Frontend & Mobile</b>
-</td>
+<td align="left"><strong>Frontend & Mobile</strong></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,flutter,tailwind&theme=dark" />
 </td>
 </tr>
-
 <tr>
-<td align="center">
-<b>Backend & Databases</b>
-</td>
+<td align="left"><strong>Backend & Databases</strong></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mysql,redis,prisma&theme=dark" />
 </td>
 </tr>
-
 <tr>
+<td align="left"><strong>AI & Computer Vision</strong></td>
 <td align="center">
-<b>AI & Computer Vision</b>
-</td>
-<td align="center">
+
 <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
-<br/><br/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/LLMs-B56BFF?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-B56BFF?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP-242938?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-B56BFF?style=flat-square" />
 <img src="https://img.shields.io/badge/AI_Agents-B56BFF?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLO-242938?style=flat-square" />
-<img src="https://img.shields.io/badge/Whisper-242938?style=flat-square" />
+<img src="https://img.shields.io/badge/YOLO-B56BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Whisper-B56BFF?style=flat-square" />
+
 </td>
 </tr>
-
 <tr>
-<td align="center">
-<b>Infrastructure & Tools</b>
-</td>
+<td align="left"><strong>Infrastructure & Tools</strong></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,arduino&theme=dark" />
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## `05` / Selected Projects
 
-### Pappers | AI Research Automation
+### Pappers
 
-An automated research pipeline that collects AI papers from arXiv and Hugging Face, delivers updates through email and exposes the research database through an MCP server.
+**AI Research Aggregator & MCP Server**
 
-Built with Next.js and MCP integration for Claude and Cursor.
+An open-source project designed to collect and organize AI research papers from sources such as arXiv and Hugging Face.
 
-[View Repository →](https://github.com/GuiGolfeto/mcp-pappers)
+- Automated research collection
+- Email notifications
+- MCP server integration
+- Next.js dashboard
+- Structured access to research information
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=B56BFF)](https://github.com/GuiGolfeto/mcp-pappers)
 
 ### SaaS & AI Systems
 
-Professional experience includes multi-tenant platforms, production AI assistants, RAG pipelines, computer vision systems and real-time IoT applications.
+Development of multi-tenant platforms, automation workflows, AI-powered assistants and integrations with external services.
 
-Some projects are developed under client confidentiality agreements, so not everything can be published here.
+Some projects are under confidentiality agreements and cannot be publicly displayed.
 
 ---
 
@@ -161,38 +204,37 @@ Some projects are developed under client confidentiality agreements, so not ever
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiGolfeto&show_icons=true&theme=transparent&hide_border=true&title_color=B56BFF&icon_color=B56BFF&text_color=C9D1D9&ring_color=B56BFF&include_all_commits=true" />
+**Explore my repositories and development activity directly on GitHub.**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGolfeto&layout=compact&theme=transparent&hide_border=true&title_color=B56BFF&text_color=C9D1D9&langs_count=8" />
+<br/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=GuiGolfeto&theme=dark&hide_border=true&background=0D1117&ring=B56BFF&fire=B56BFF&currStreakLabel=B56BFF&sideLabels=999999" />
+[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=B56BFF)](https://github.com/GuiGolfeto?tab=repositories)
+[![Contributions](https://img.shields.io/badge/CONTRIBUTION_HISTORY-0D1117?style=for-the-badge&logo=github&logoColor=B56BFF)](https://github.com/GuiGolfeto?tab=overview)
+[![Projects](https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=B56BFF)](https://github.com/GuiGolfeto?tab=projects)
 
 </div>
 
 ---
 
-## `07` / A Few Principles
+## `07` / Engineering Principles
 
 ```text
-> Understand the problem before choosing the technology.
-> Automate repetitive work whenever possible.
-> Architecture should simplify, not complicate.
-> AI is a tool, not a substitute for engineering.
-> Production is where assumptions meet reality.
+01. Understand the problem before writing code.
+02. Build systems, not isolated features.
+03. Prefer maintainability over unnecessary complexity.
+04. Automate repetitive work.
+05. Use AI as an engineering tool, not a substitute for engineering.
+06. Keep learning, experimenting and improving.
 ```
 
 ---
 
 <div align="center">
 
-### LESS NOISE. MORE BUILDING.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:B56BFF&height=120&section=footer" width="100%" />
 
-<i>Curiosity drives the ideas. Engineering makes them real.</i>
+**LESS NOISE. MORE BUILDING.**
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:240046,100:080808&height=110&section=footer" width="100%" />
+<sub>Designed and built by Guilherme Golfeto</sub>
 
 </div>
