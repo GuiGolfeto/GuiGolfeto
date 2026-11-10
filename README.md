@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:240046,100:7B2CBF&height=180&section=header&text=Guilherme%20Golfeto&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20actually%20work.&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=B56BFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+TypeScript+%26+Node.js;AI+Engineering+%7C+RAG+%26+MCP;SaaS+%7C+Architecture+%7C+Automation;Less+hype.+More+engineering." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=B56BFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+TypeScript+%26+Node.js;AI+Engineering+%7C+RAG+%26+MCP;SaaS+%7C+Architecture+%7C+Automation;Less+hype.+More+engineering." />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ---
 
-### `01` / About Me
+## `01` / About Me
 
 I'm Guilherme, a **Full-Stack Developer** with 4 years of experience building software, from the first architectural decision to production deployment.
 
@@ -36,13 +36,13 @@ I enjoy understanding how things work, questioning unnecessary complexity and fi
 
 **I don't care much about following trends. I care about building things that make sense.**
 
-<br/>
+---
 
-### `02` / What I Do
+## `02` / What I Do
 
 | Area | Focus |
 |:---|:---|
-| Backend Engineering | APIs, distributed communication, WebSockets, queues and background jobs |
+| Backend Engineering | APIs, WebSockets, queues, background jobs and integrations |
 | Frontend Engineering | Modern interfaces, performance, component architecture and UX |
 | AI Engineering | LLMs, RAG, AI Agents, tool calling and MCP servers |
 | Computer Vision | YOLO, OpenCV, OCR, video analysis and local inference |
@@ -50,9 +50,9 @@ I enjoy understanding how things work, questioning unnecessary complexity and fi
 | Infrastructure | Docker, Linux, Nginx, deployment and production environments |
 | Mobile & IoT | Flutter, ESP32, TCP communication and real-time telemetry |
 
-<br/>
+---
 
-### `03` / Engineering in Practice
+## `03` / Engineering in Practice
 
 I prefer measurable results over impressive-sounding descriptions.
 
@@ -79,64 +79,69 @@ A few examples from projects I've worked on:
 
 </div>
 
-<br/>
+---
 
-### `04` / Tech Stack
+## `04` / Tech Stack
 
-**Languages & Core**
+<table align="center">
+<tr>
+<td align="center" width="190">
+<b>Languages & Core</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,php&theme=dark" />
+</td>
+</tr>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,php,cs&theme=dark" />
-
-</div>
-
-**Frontend & Mobile**
-
-<div align="center">
-
+<tr>
+<td align="center">
+<b>Frontend & Mobile</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,flutter,tailwind&theme=dark" />
+</td>
+</tr>
 
-</div>
-
-**Backend & Databases**
-
-<div align="center">
-
+<tr>
+<td align="center">
+<b>Backend & Databases</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mysql,redis,prisma&theme=dark" />
+</td>
+</tr>
 
-</div>
-
-**AI & Computer Vision**
-
-<div align="center">
-
+<tr>
+<td align="center">
+<b>AI & Computer Vision</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
-
 <br/><br/>
+<img src="https://img.shields.io/badge/LLMs-B56BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-B56BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-242938?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-B56BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/YOLO-242938?style=flat-square" />
+<img src="https://img.shields.io/badge/Whisper-242938?style=flat-square" />
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/LLMs-B000FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-B000FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-B000FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge" />
-
-</div>
-
-**Infrastructure & Tools**
-
-<div align="center">
-
+<tr>
+<td align="center">
+<b>Infrastructure & Tools</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,arduino&theme=dark" />
+</td>
+</tr>
+</table>
 
-</div>
+---
 
-<br/>
+## `05` / Selected Projects
 
-### `05` / Selected Projects
-
-**Pappers | AI Research Automation**
+### Pappers | AI Research Automation
 
 An automated research pipeline that collects AI papers from arXiv and Hugging Face, delivers updates through email and exposes the research database through an MCP server.
 
@@ -144,17 +149,15 @@ Built with Next.js and MCP integration for Claude and Cursor.
 
 [View Repository →](https://github.com/GuiGolfeto/mcp-pappers)
 
-<br/>
-
-**SaaS & AI Systems**
+### SaaS & AI Systems
 
 Professional experience includes multi-tenant platforms, production AI assistants, RAG pipelines, computer vision systems and real-time IoT applications.
 
 Some projects are developed under client confidentiality agreements, so not everything can be published here.
 
-<br/>
+---
 
-### `06` / GitHub Activity
+## `06` / GitHub Activity
 
 <div align="center">
 
@@ -168,9 +171,9 @@ Some projects are developed under client confidentiality agreements, so not ever
 
 </div>
 
-<br/>
+---
 
-### `07` / A Few Principles
+## `07` / A Few Principles
 
 ```text
 > Understand the problem before choosing the technology.
@@ -180,7 +183,7 @@ Some projects are developed under client confidentiality agreements, so not ever
 > Production is where assumptions meet reality.
 ```
 
-<br/>
+---
 
 <div align="center">
 
